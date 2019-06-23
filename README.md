@@ -1,1 +1,1 @@
-# springLibApp
+# springLibApp project
